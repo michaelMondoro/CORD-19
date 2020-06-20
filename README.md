@@ -8,3 +8,4 @@ cord_training.py - contains methods used for analyzing data and training the ML 
 
 covid_analysis.py - contains methods for formatting data and preparing it for us with classifier.
 
+covid_model.sav - trained model for determining relevant data
