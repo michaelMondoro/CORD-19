@@ -1,6 +1,6 @@
 # CORD-19
 Repository for completing the CORD-19 Challenge
-<hr>
+
 ## Files
 Project files include sample documents (in json format) in comm_use_subset/ directory. These files are used for training and testing. <br>
 
