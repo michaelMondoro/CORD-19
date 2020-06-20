@@ -211,22 +211,6 @@ def train_and_predict():
     print("Expected: \n{}".format(y_test))
 
 
-#label(100)
-#train_and_predict()
-#gather_data(1000)
 
-'''
-print("Finding relevant files...")
-relevant = find_relevant(num_files, 3, start_index=25)
-print("Generating packets...")
-packets = generate_packets(relevant)
-
-X = []
-for packet in packets:
-    X.append(packet[0])
-
-
-kmeans = KMeans(n_clusters=5)
-'''
 
 
