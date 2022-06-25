@@ -17,3 +17,5 @@ Labelled snippets are then used to train the ML Classifier to predict relevant s
 
 The problem thus far has been accurately labelling the extracted data. In order to do so, one needs to read through the extracted text which is very technical and precise. 
 Methods are included for automatically labelling based simply on the number of keyword mentions, but this is not very practical or accurate.
+
+![Not Maintained](https://img.shields.io/badge/Maintenance%20Level-Not%20Maintained-yellow.svg)
